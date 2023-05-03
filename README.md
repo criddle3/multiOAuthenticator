@@ -1,1 +1,1 @@
-# 2sigma-multioauthenticator
+# multiOAuthenticator
